@@ -1,7 +1,7 @@
 
 ---
-layout: default
-title: Hank Quinlan's Blog
+title: Read Me
 ---
+<title>Read-me</title>
 
 # tony5.github.io
