@@ -1,6 +1,6 @@
 
 ---
-title: Read Me
+title: README
 ---
 <title>Read-me</title>
 
