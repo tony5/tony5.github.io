@@ -1,7 +1,6 @@
 ---
-title: title-tag
+Title: welcome
 ---
-This is a title
-===============
+
 
 # tony5.github.io
